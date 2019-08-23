@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Animate Drawable Graphics</string>
+    <string name="title_activity_frame_drawables">FrameDrawablesActivity</string>
+</resources>
